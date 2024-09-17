@@ -1,0 +1,2 @@
+This is an implementation for the article that is accessed via the link "https://www.researchgate.net/profile/Farid-Ayeche/publication/357787947_Facial_Expressions_Recognition_Based_on_Delaunay_Triangulation_of_Landmark_and_Machine_Learning/links/61e2f7b49a753545e2d1de6e/Facial-Expressions-Recognition-Based-on-Delaunay-Triangulation-of-Landmark-and-Machine-Learning.pdf" 
+Ayeche, Farid, and Adel Alti. "Facial Expressions Recognition Based on Delaunay Triangulation of Landmark and Machine Learning." Traitement du Signal 38.6 (2021).
